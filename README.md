@@ -46,5 +46,51 @@ This is an example of a *text with an asterisk*. Wehn don't want it to be italic
 __NOTE__: WE can add a baloon tip description to our link by using double quotes after the link t o the resource
 [Regie Marzan](https://www.facebook.com/regie.marzan.73/ "This is Regie Marzan Profile")
 
+---
 
+* Item 1 - This is going to be our list item 1
+  * This is our list item 1 child item 1
+  * This is our list item 2 child item 2
+* Item 2 - This is going to be our list item 2
+  * This is our list item 1 child item 1
+  * This is our list item 2 child item 2
+* Item 3 - This is going to be our list item 3
+  * This is our list item 1 child item 1
+  * This is our list item 2 child item 2
+* Item 4 - This is going to be our list item 4
+  * This is our list item 1 child item 1
+  * This is our list item 2 child item 2 
+* Item 5 - This is going to be our list item 5
+  * This is our list item 1 child item 1
+  * This is our list item 2 child item 2
+
+1. Item 1 - This is going to be our list item 1
+
+   1.1 This is our list item 1 child item 1
+  
+   1.2 This is our list item 2 child item 2
+  
+2. Item 2 - This is going to be our list item 2
+ 
+   2.1 This is our list item 1 child item 1
+   
+   4.2 This is our list item 2 child item 2
+  
+3. Item 3 - This is going to be our list item 3
+
+   3.1 This is our list item 1 child item 1
+   
+   5.2 This is our list item 2 child item 2
+  
+4. Item 4 - This is going to be our list item 4
+
+   4.1 This is our list item 1 child item 1
+   
+   6.2 This is our list item 2 child item 2 
+   
+5. Item 5 - This is going to be our list item 5
+
+   5.1 This is our list item 1 child item 1
+   
+   5.2 This is our list item 2 child item 2
 
