@@ -31,3 +31,9 @@ Another wat add __HORIZONTAL RULES__ in document markdown is by using three unde
 ___
 
 This is an example of a *text with an asterisk*. Wehn don't want it to be italicized. WE want to use the backslash to escape to rule of using an opening *asterick* and and closing \*asterisk* to enclose in text contents.
+
+---
+
+> We use the greater than symbol to display a block of text as a quote with a background and line on the left side.
+
+> *"You don't have to be great to start, but you need to start to be great."* - __Unknown Author__
