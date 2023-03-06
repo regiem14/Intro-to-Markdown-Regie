@@ -101,3 +101,9 @@ __NOTE__: WE can add a baloon tip description to our link by using double quotes
 `<p> This is a paragraph tag with an inline code block example opening and closing tag </p>`
  
  ---
+ 
+ ```install npm
+ npm install
+ 
+ npm start
+ ```
