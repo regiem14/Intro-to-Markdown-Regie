@@ -27,7 +27,7 @@ This is an example of a ~~strikethrough~~ text, anything in between the double t
 
 We can add triple hypens to be able to create a horizontal rule for separting conten.
 
-Another wat add __HORIZONTAL RULES__ in document markdown is by using three underscores.
+Another way to add __HORIZONTAL RULES__ in document markdown is by using three underscores.
 ___
 
 This is an example of a *text with an asterisk*. Wehn don't want it to be italicized. WE want to use the backslash to escape to rule of using an opening *asterick* and and closing \*asterisk* to enclose in text contents.
@@ -74,19 +74,19 @@ __NOTE__: WE can add a baloon tip description to our link by using double quotes
  
    2.1 This is our list item 1 child item 1
    
-   4.2 This is our list item 2 child item 2
+   3.2 This is our list item 2 child item 2
   
 3. Item 3 - This is going to be our list item 3
 
    3.1 This is our list item 1 child item 1
    
-   5.2 This is our list item 2 child item 2
+   2.2 This is our list item 2 child item 2
   
 4. Item 4 - This is going to be our list item 4
 
    4.1 This is our list item 1 child item 1
    
-   6.2 This is our list item 2 child item 2 
+   4.2 This is our list item 2 child item 2 
    
 5. Item 5 - This is going to be our list item 5
 
@@ -94,3 +94,10 @@ __NOTE__: WE can add a baloon tip description to our link by using double quotes
    
    5.2 This is our list item 2 child item 2
 
+---
+
+**NOTE**: *__Backtics__ will allow us to show the code block or the paragraph tags in this example. It is located below the t ilde character and on top of the tab key*
+
+`<p> This is a paragraph tag with an inline code block example opening and closing tag </p>`
+ 
+ ---
