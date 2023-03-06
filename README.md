@@ -127,12 +127,19 @@ def pythonAdd(num1,num2):
      return total;
    }
 ```
+---
 
+| Name | Nickname | Email |
+|------|----------|-------|
+|Reg   | Egy     | lonebeginner@gmail.com|
+|John  | Jo       | john@gmail.com|
+|Bart  | CoolKid  | testBart@gmail.com|
 
-```
-
-
-
+* [X] Tast 1
+* [ ] Tast 2
+* [ ] Tast 3
+* [ ] Tast 4
+* [ ] Tast 5
 
 
 
