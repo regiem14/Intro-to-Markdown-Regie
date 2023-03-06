@@ -40,8 +40,11 @@ This is an example of a *text with an asterisk*. Wehn don't want it to be italic
 
 ---
 
-**NOTE** We would want to put the link description inside of square brackets and the link to the resource of two open and close parenthesis
+**NOTE**: We would want to put the link description inside of square brackets and the link to the resource of two open and close parenthesis
 [Regie Marzan](https://www.facebook.com/regie.marzan.73/)
+
+__NOTE__: WE can add a baloon tip description to our link by using double quotes after the link t o the resource
+[Regie Marzan](https://www.facebook.com/regie.marzan.73/ "This is Regie Marzan Profile")
 
 
 
