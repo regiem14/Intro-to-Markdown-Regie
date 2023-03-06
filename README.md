@@ -37,3 +37,11 @@ This is an example of a *text with an asterisk*. Wehn don't want it to be italic
 > We use the greater than symbol to display a block of text as a quote with a background and line on the left side.
 
 > *"You don't have to be great to start, but you need to start to be great."* - __Unknown Author__
+
+---
+
+**NOTE** We would want to put the link description inside of square brackets and the link to the resource of two open and close parenthesis
+[Regie Marzan](https://www.facebook.com/regie.marzan.73/)
+
+
+
